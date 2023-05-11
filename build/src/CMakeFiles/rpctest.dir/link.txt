@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/librpctest.a CMakeFiles/rpctest.dir/rpctestapplication.cc.o CMakeFiles/rpctest.dir/rpctestconfig.cc.o CMakeFiles/rpctest.dir/rpctestprovider.cc.o CMakeFiles/rpctest.dir/rpcheader.pb.cc.o CMakeFiles/rpctest.dir/rpctestchannel.cc.o CMakeFiles/rpctest.dir/logger.cc.o CMakeFiles/rpctest.dir/zookeeperutil.cc.o
+/usr/bin/ranlib ../../lib/librpctest.a

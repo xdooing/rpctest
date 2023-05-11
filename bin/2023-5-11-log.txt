@@ -1,0 +1,4 @@
+10:42:32=>[error]first log message!
+10:42:32=>[error]/home/xdoo/projects/rpctest/example/callee/friendservice.cc:main47
+10:42:32=>[info]service_name: FriendServiceRpc
+10:42:32=>[info]method_name: GetFriendList

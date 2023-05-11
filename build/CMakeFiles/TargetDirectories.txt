@@ -1,0 +1,13 @@
+/home/xdoo/projects/rpctest/build/CMakeFiles/edit_cache.dir
+/home/xdoo/projects/rpctest/build/CMakeFiles/rebuild_cache.dir
+/home/xdoo/projects/rpctest/build/src/CMakeFiles/rpctest.dir
+/home/xdoo/projects/rpctest/build/src/CMakeFiles/edit_cache.dir
+/home/xdoo/projects/rpctest/build/src/CMakeFiles/rebuild_cache.dir
+/home/xdoo/projects/rpctest/build/example/CMakeFiles/edit_cache.dir
+/home/xdoo/projects/rpctest/build/example/CMakeFiles/rebuild_cache.dir
+/home/xdoo/projects/rpctest/build/example/callee/CMakeFiles/provider.dir
+/home/xdoo/projects/rpctest/build/example/callee/CMakeFiles/edit_cache.dir
+/home/xdoo/projects/rpctest/build/example/callee/CMakeFiles/rebuild_cache.dir
+/home/xdoo/projects/rpctest/build/example/caller/CMakeFiles/consumer.dir
+/home/xdoo/projects/rpctest/build/example/caller/CMakeFiles/edit_cache.dir
+/home/xdoo/projects/rpctest/build/example/caller/CMakeFiles/rebuild_cache.dir
